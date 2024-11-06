@@ -31,12 +31,12 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Ethics in Cybersecurity](/pdf/Ethics in Cybersecurity (2).pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class:**  CSCI 325
+-   **Grade:**  B
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Ethics in Computer Science](/pdf/sample_presentation.pdf)
 
 -   **Class:** 
 -   **Grade:**

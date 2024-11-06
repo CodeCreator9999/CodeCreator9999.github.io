@@ -3,23 +3,23 @@
 Project 1 Title
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class:** CSCI 325
+-   **Grade:** B
+-   **Language(s):** Java
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A complete chess game that runs in the terminal. It allows all legal chess moves including en passant and castling. This was my final project for Object Oriented Programming
 
 ## How to compile and run the program
 
 How to compile (if applicable) and run the project.
 
-```bash
-cd ./project
-python setup.py
+cd ChessGameCopy
+javac ChessGameCopy
+java ChessGameCopy
 ```
 
 If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.

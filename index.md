@@ -51,10 +51,10 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Applied Semester Project](/pdf/Applied Semster Project.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:** CSCI 325
+- **Grade:** A
 
 
 ### [Presentation 2 Title](/pdf/sample_presentation.pdf)

@@ -17,7 +17,7 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Chat Room | CSCI 325](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 

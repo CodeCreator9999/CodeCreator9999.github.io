@@ -12,9 +12,9 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/Chess.jpg)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Numerical Guessing Game | CSCI 301](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](Game.jpg)
 
 ---
 ### [Chat Room | CSCI 325](project3)

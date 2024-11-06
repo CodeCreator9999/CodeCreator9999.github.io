@@ -36,15 +36,15 @@ Ethics Papers
 -   **Class:**  CSCI 325
 -   **Grade:**  B
 
-### [Ethics in Computer Science](/pdf/sample_presentation.pdf)
+### [Ethics in Computer Science](/pdf/Ethics in computer science (3).pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** CSCI 301
+-   **Grade:** A
 
 ### [Paper 3 Title](/pdf/sample_presentation.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** CSCI 325
+-   **Grade:** A
 
 ---
 

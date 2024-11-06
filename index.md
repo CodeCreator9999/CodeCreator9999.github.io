@@ -57,10 +57,10 @@ Presentations
 - **Grade:** A
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Cyber Defense](/pdf/Cyber defense.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:** Cyber Defense
+- **Grade:** A
 
 ---
 

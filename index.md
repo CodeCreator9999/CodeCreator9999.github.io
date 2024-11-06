@@ -41,7 +41,7 @@ Ethics Papers
 -   **Class:** CSCI 301
 -   **Grade:** A
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Ethics Paper Applied Networking](/pdf/Ethics Paper Applied Networking.pdf)
 
 -   **Class:** CSCI 325
 -   **Grade:** A

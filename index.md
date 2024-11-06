@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [Chess Game | CSCI 325](project1)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 

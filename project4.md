@@ -1,17 +1,17 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Project 4 Title
 ===============
 
--   **Class:** CSCI 325
--   **Grade:** B
--   **Language(s):** Java
+-   **Class:** CSCI 301
+-   **Grade:** A
+-   **Language(s):** Python
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-A complete chess game that runs in the terminal. It allows all legal chess moves including en passant and castling. This was my final project for Object Oriented Programming
+This is a website parsing code that can pull specific information off of a given URL.
 
 ## How to compile and run the program
 

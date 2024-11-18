@@ -22,7 +22,7 @@ Programming Projects
 ![Project 3 Thumbnail Name](images/ChatRoom.jpg)
 
 ---
-### [Project 4 Title | CSCI 301](project4)
+### [Web Scraper | CSCI 301](project4)
 
 ![Project 4 Thumbnail Name](images/Web.png)
 

@@ -1,25 +1,25 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Project 3 Title
 ===============
 
--   **Class:** CSCI 325
--   **Grade:** B
--   **Language(s):** Java
+-   **Class:** CSCI 332
+-   **Grade:** A
+-   **Language(s):** Python
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-A complete chess game that runs in the terminal. It allows all legal chess moves including en passant and castling. This was my final project for Object Oriented Programming
+This is a server and client chat room. It is a basic chat room between clients that can talk on the server. It is coded in Python.
 
 ## How to compile and run the program
 
 How to compile (if applicable) and run the project.
 
-cd ChessGameCopy
-javac ChessGameCopy
-java ChessGameCopy
+cd ChatRoom
+python3 server.py
+python3 client.py
 ```
 
 If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
@@ -28,16 +28,13 @@ If the programming language does not require compilation, the update the heading
 
 Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
 
-After Running the Program (figure 1) shows the bootup screen of the ChessGame. The user is prompted to choose a move after user chooses a move it will show you the move (figure 2). If the move is invalid the program will say choose a new move invalid see (figure 3).
+After starting the server side and the client side and entering the IP, it will start the chat room (figure1). Next, you will input what you want to say to the other clients in the chat room (figure2)
 
-![screenshot](images/ChessBoot.png)  
+![screenshot](images/ChatRoomBoot.png)  
 Fig 1. The launch screen
 
-![screenshot](images/ChessMove.png)  
+![screenshot](images/ChatRoomI.png)  
 Fig 2. Example output after input is processed.
-
-![screenshot](images/ChessInvalid.png)  
-Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 

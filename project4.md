@@ -36,6 +36,6 @@ After running the code the web scraper will go to the given URL and search for t
 Fig 1. The launch screen
 
 ![screenshot](images/FinalO.png)  
-Fig 2. Feedback when an error occurs.
+Fig 2. Example output after input is processed.
 
 ## 3. Additional Considerations

@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [Numerical Guessing Game | CSCI 301](project2)
 
-![Project 2 Thumbnail Name](Game.jpg)
+![Project 2 Thumbnail Name](images/Game.jpg)
 
 ---
 ### [Chat Room | CSCI 325](project3)

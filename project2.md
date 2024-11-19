@@ -30,13 +30,10 @@ If the programming language does not require compilation, the update the heading
 
 Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
 
-After executing the program it will check your disk space and tell you how much is left (figure1 and 2)
-
-![screenshot](images/Lab10Boot.png)  
-Fig 1. The launch screen
+After executing the program it will check your disk space and tell you how much is left (figure 1).
 
 ![screenshot](images/Lab10D.png)  
-Fig 2. Example output after input is processed.
+Fig 1. Example output after input is processed.
 
 
 

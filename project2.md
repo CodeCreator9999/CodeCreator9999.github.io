@@ -36,7 +36,20 @@ Next, click on the vulnerability scan menu and click run scan
 ![screenshot](images/SwiftVuln.jpg)
 Fig 2. Vuln Scan Window.
 
+Then you can click on the Performance module and choose what you want done to your PC by clicking the different check boxes.
 
+![screenshot](images/SwiftPerf.jpg)
+Fig 3. Performance module with Check Boxes.
+
+Another module called Clean up gets rid of temp files etc at the users discretion by clicking on the check boxes.
+
+![screenshot](images/SwiftClean.jpg)
+Fig 4. Clean up module with check Boxes.
+
+The last module is the Security module which allows users to decide how they want their system secured.
+
+![screenshot](images/SwiftSec.jpg)
+Fig 5. The security module with check boxes
 
 ## 3. Additional Considerations
 

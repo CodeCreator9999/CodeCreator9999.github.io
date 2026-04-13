@@ -12,9 +12,9 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/Chess.jpg)
 
 ---
-### [Disk Space | CSCI 301](project2)
+### [Swift Edge | CSCI 499](project2)
 
-![Project 2 Thumbnail Name](images/Disk.png)
+![Project 2 Thumbnail Name](images/SwiftStart.jpg)
 
 ---
 ### [Chat Room | CSCI 332](project3)

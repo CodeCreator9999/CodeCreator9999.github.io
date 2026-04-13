@@ -31,6 +31,8 @@ After Entering the program decide if you want to make a restore point(figure 1).
 ![screenshot](images/SwiftIntro.jpg)  
 Fig 1. Example output after input is processed.
 
+Next, click on the vulnerability scan menu and click run scan
+
 ![screenshot](images/SwiftVuln.jpg)
 Fig 2. Vuln Scan Window.
 

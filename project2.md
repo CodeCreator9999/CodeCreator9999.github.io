@@ -4,8 +4,8 @@ Project 2 Title
 ===============
 
 -   **Class:** CSCI 499
--   **Grade:** Ps
--   **Language(s):** 
+-   **Grade:** Unknown
+-   **Language(s): Powershell** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:danielhoward1@csustudent.net?subject=GitHub%20Access) to request access.)
 

@@ -28,8 +28,11 @@ Almost every program requires user interaction, even command-line programs. Incl
 
 After Entering the program decide if you want to make a restore point(figure 1).
 
-![screenshot](images/Swift.jpg)  
+![screenshot](images/SwiftIntro.jpg)  
 Fig 1. Example output after input is processed.
+
+![screenshot](images/SwiftVuln.jpg)
+Fig 2. Vuln Scan Window.
 
 
 

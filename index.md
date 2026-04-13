@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [Swift Edge | CSCI 499](project2)
 
-![Project 2 Thumbnail Name](images/SwiftStart.jpg)
+![Project 2 Thumbnail Name](images/SwiftIntro.jpg)
 
 ---
 ### [Chat Room | CSCI 332](project3)

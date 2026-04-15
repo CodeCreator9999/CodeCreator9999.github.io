@@ -64,10 +64,15 @@ Presentations
 
 ---
 
-### [Documentation Project 2 Defense](/DefenseDocumentation.md)
+Documentation
+--------------
+
+### [Project 2 Defense](/DefenseDocumentation.md)
 
 - **Class:** Senior Project Defense
 - **Grade:** Unknown
+
+---
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
 <!-- Remove above link if you don't want to attributive -->
